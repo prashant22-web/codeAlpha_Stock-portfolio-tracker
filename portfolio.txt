@@ -1,0 +1,6 @@
+Stock Portfolio
+----------------
+APPLE - Quantity: 5 - Price: 180 - Investment: 900
+AMZN - Quantity: 6 - Price: 500 - Investment: 3000
+
+Total Portfolio Value: 3900
